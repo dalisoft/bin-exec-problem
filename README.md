@@ -89,6 +89,8 @@ Date: April 12 - April 15 at 2024
 
 Date: July 30 - August 01 at 2024
 
+Reference: <https://github.com/dalisoft/binary2sh>
+
 ### Title: shell `bin.sh` solution to execute
 
 ### Issues or Discussions
@@ -104,3 +106,20 @@ Date: July 30 - August 01 at 2024
 | -------- | ------------------------------------------------- |
 | biomejs  | https://github.com/biomejs/biome/pull/3550        |
 | lefthook | https://github.com/evilmartians/lefthook/pull/798 |
+
+## Attempt 4
+
+> [!NOTE]
+> Status: Working partially
+
+Date: August 05 and later at 2024
+
+### Issues or Discussions
+
+| Project | Issue or Discussion |
+| ------- | ------------------- |
+| -       | -                   |
+
+### Solutions provided
+
+Reference: <https://github.com/dalisoft/binary2npm>
