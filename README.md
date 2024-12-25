@@ -2,7 +2,7 @@
 
 ## Motivation
 
-I am driven to enhance the performance and reduce the startup execution times of development tools such as `pre-commit`, `pre-push`, and similar processes. These optimizations are not limited to local environments but also extend to Continuous Integration and Continuous Deployment (CI/CD) pipelines. Here's why this is important:
+I am driven to enhance the performance and reduce the startup execution times of development hooks such as `pre-commit`, `pre-push`, and similar processes. These optimizations are not limited to local environments but also extend to Continuous Integration and Continuous Deployment (CI/CD) pipelines. Here's why this is important:
 
 1. **Faster Development Workflow:**
 
@@ -114,6 +114,8 @@ Reference: <https://github.com/dalisoft/binary2sh>
 
 Date: August 05 and later at 2024
 
+### Title: Download platform binary from GitHub
+
 ### Issues or Discussions
 
 | Project | Issue or Discussion |
@@ -123,3 +125,18 @@ Date: August 05 and later at 2024
 ### Solutions provided
 
 Reference: <https://github.com/dalisoft/binary2npm>
+
+## Attempt 5
+
+### Issues or Discussions
+
+| Project  | Issue or Discussion                                 |
+| -------- | --------------------------------------------------- |
+| biomejs  | https://github.com/biomejs/biome/discussions/4792   |
+| lefthook | https://github.com/oxc-project/oxc/discussions/8101 |
+
+### Solutions provided
+
+| Project | PR  |
+| ------- | --- |
+| -       | -   |
