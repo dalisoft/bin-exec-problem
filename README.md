@@ -1,5 +1,7 @@
 # Binary execution speed improvement
 
+My solution is improve the performance or reduce startup execution time as for `pre-commit`, `pre-push` or on something or even at calling on CI/CD it could work faster thus reducing cost of CI/CD or reduce energy usage on local thus saving the battery. Helping to both CPU and nature to reduce carbon by saving power is good reason to try it.
+
 ## Attempt 1
 
 > [!CAUTION]
