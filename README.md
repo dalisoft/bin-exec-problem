@@ -39,12 +39,12 @@ Date: April 07 - April 09 at 2024
 
 ### Issues or Discussions
 
-| Project  | Issue or Discussion                                    |
-| -------- | ------------------------------------------------------ |
-| dprint   | https://github.com/dprint/dprint-plugin-json/issues/35 |
-| biomejs  | https://github.com/biomejs/biome/discussions/2315      |
-| jsona    | https://github.com/jsona/jsona/issues/52               |
-| lefthook | https://github.com/jsona/jsona/issues/52               |
+| Project            | Issue or Discussion                                    |
+| ------------------ | ------------------------------------------------------ |
+| dprint-plugin-json | https://github.com/dprint/dprint-plugin-json/issues/35 |
+| biomejs            | https://github.com/biomejs/biome/discussions/2315      |
+| jsona              | https://github.com/jsona/jsona/issues/52               |
+| lefthook           | https://github.com/jsona/jsona/issues/52               |
 
 ### Solutions provided
 
